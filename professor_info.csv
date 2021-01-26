@@ -1,0 +1,42 @@
+prof_ID,program_id,firstName,lastName,profRating
+1,1,Mahdi,Majbouri,4.3
+2,1,Andrew,Corbett,Null
+3,1,Michael,McGuirk,Null
+4,1,Nada,Hashmi,Null
+5,5,Peng,Xu,3.7
+6,5,Jean-Pierre,Kuilboer,3.3
+7,5,Roger,Blake,3.2
+8,5,Romilla,Syed,1
+9,4,Klein,Barbara,4.3
+10,4,Charu,Chandra,1
+11,4,Zhixin, Liu,3.4
+12,7,James,Bradley,Null
+13,7,Aaron,Koehl,Null
+14,7,Monica,Tremblay,Null
+15,7,Null,Murray,Null
+16,7,Joseph,Wilck,4.2
+17,7,Ram,Ganeshan,5
+18,7,Paul,Blossom,2.5
+19,11,Joel,Wattacheril,1.5
+20,9,Yann,Chang,4.3
+21,9,Kyle,Cheek,1
+22,9,Siddhartha,Bhattacharyya,3
+23,9,Zack,Kertcher,1
+24,11,Michael,Weingart,4.9
+25,11,Jozsef,Beck,2.9
+26,11,Vijay ,Atluri,2.3
+27,11,Farid,Alizadeh,2.5
+28,11,Jaideep ,Vaidya,2.8
+29,11,Juan,Zhai,2.2
+30,1,Karst,Nathaniel,5
+31,2,Yicheng,Kang,Null
+32,2,Greg,Vaughan,4.6
+33,2,Dominique,Haughton,2.9
+34,2,Seamus,McGovern,2.5
+35,2,Moinak,Bhaduri,Null
+36,2,Noah,Giansiracusa,3
+37,2,Luke ,Cherveny,3.9
+38,2,Akram,Ahmed,3.2
+39,2,Haijing,Hao,Null
+40,2,Marco,Marabelli,4.6
+41,2,Robert,Murphy,2.2

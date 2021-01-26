@@ -1,0 +1,13 @@
+programID,ProgramName,totalCredits,numCoreCourses,afterGradSalary,electivesBinary,classSize,AveYearsExp
+1,Babson College,30,6,null,1,null,3
+2,Bentley University,30,7,89000,1,28,2.5
+3,California Polytechnic Institute,45,7,79842,1,30,0
+4,University of Michigan-Dearborn,30,6,null,1,30,null
+5,University of Massachusetts-Boston,30,4,null,1,28,4
+6,Saint Mary's College of California,45,7,87718,1,20,2
+7,William & Mary,30,10,78000,0,76,2
+8,University of Maryland,30,10,74000,1,null,1
+9,University of Illinois-Chicago,32,4,83700,1,null,null
+10,Wake Forest University,37,17,71055,0,118,null
+11,Rutgers University,30,12,66200,1,25,2
+12,Benedictine College,33,12,45000,1,20,3
